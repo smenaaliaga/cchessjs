@@ -1,0 +1,14 @@
+{
+  "name": "chessboard_test",
+  "version": "0.0.1",
+  "description": "Chessboardjs testing code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "choripan",
+  "license": "ISC",
+  "dependencies": {
+    "chessboardjs": "0.0.1"
+  }
+}
